@@ -1,4 +1,5 @@
 # Calcul de la consommation d'énergie dans un bâtiment
+
 Ce programme permet de calculer la consommation d'énergie totale d'un bâtiment en fonction de différents paramètres tels que la surface habitable, l'isolation, le chauffage, la climatisation et l'éclairage.
 
 # Comment utiliser le programme
